@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/scverse/sp-ops/commit/4444ac9d0c389f9c365db6f6c45085754a1f0902",
       "git:hexsha": "4444ac9d0c389f9c365db6f6c45085754a1f0902",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-21T20:38:31.391026+00:00"
     }
   ]
 }
