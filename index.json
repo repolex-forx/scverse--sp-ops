@@ -1,0 +1,11 @@
+{
+  "org": "scverse",
+  "repo": "sp-ops",
+  "versions": [
+    {
+      "commit": "4444ac9d0c389f9c365db6f6c45085754a1f0902",
+      "tag": "",
+      "parsed_at": "2026-10-21T20:38:31.391443+00:00"
+    }
+  ]
+}
